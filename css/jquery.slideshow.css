@@ -1,0 +1,44 @@
+.slideshow {
+    position: relative;
+    width: 640px;
+    border: 1px solid #72797f;
+    height: 480px;
+    padding: 0;
+}
+
+.slideshow .previous,
+.slideshow .next {
+    display: none;
+    position: absolute;
+    top: 0;
+    width: 55px;
+    background: #000;
+    opacity: 0.5;
+    cursor: pointer;
+    padding: 223px 0;
+    text-align: center;
+    z-index: 100;
+}
+
+.slideshow .next {
+    right: 0;
+}
+
+.slideshow li {
+    position: absolute;
+    top: 0;
+    list-style: none;
+}
+.slideshow a img {
+    border: none;
+}
+
+.slideshow .description {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 620px;
+    text-align: center;
+    color: #EAEAEA;
+}
+
