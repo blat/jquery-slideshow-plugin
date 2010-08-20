@@ -1,3 +1,11 @@
+/** 
+ * Simple Slideshow
+ *
+ * @author      Mickael BLATIERE
+ * @license     http://www.opensource.org/licenses/mit-license.php - Licensed under The MIT License
+ * @link        http://github.com/blat/jquery-slideshow-plugin
+ */
+
 (function($) {
 
     var current = -1;
