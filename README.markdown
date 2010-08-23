@@ -4,7 +4,7 @@ This jQuery plugin allows you to create a very simple slideshow.
 
 demo
 -----------------
-*   [example](http://blat.github.com/jquery-slideshow-plugin/demo.html)
+*   [example](http://www.frederic-blatiere.com/)
 
 setup
 ------------------
